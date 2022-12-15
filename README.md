@@ -1,3 +1,6 @@
+
+Refactoring codebase so that it will follow accessibility standards and it will be optimized for search engines
+
 # Code Refactor Starter Code
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
